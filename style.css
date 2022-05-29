@@ -1046,3 +1046,16 @@ h4 {
         text-align: center;
     }
 }
+
+
+.title1{
+   
+    font-size: 33px;
+}
+
+#quote1{
+  
+    font-style: italic;
+    font-size: 45px;
+    line-height: 2;
+}
