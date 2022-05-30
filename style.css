@@ -654,7 +654,10 @@ label,
 }
 
 a{
-   color: #19c8eb;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    line-height: 2.3;
+    color: #19c8eb;
 }
 
 .container {
